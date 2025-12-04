@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # Getting Started with Create React App
 
+![React](https://img.shields.io/badge/React-19.2.1-blue) ![Node.js](https://img.shields.io/badge/Node.js-24.11.1-green)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
