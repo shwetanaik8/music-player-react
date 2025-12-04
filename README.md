@@ -212,6 +212,8 @@ Builds the app for production in the `build` folder. Optimizes React for best pe
 * Visual Studio Code
 
   ![React](https://img.shields.io/badge/React-17.0.2-blue)
+  ![React](https://img.shields.io/badge/React-19.2.1-blue)
+
 
 
 
