@@ -211,5 +211,8 @@ Builds the app for production in the `build` folder. Optimizes React for best pe
 * Node.js v24.11.1
 * Visual Studio Code
 
+  ![React](https://img.shields.io/badge/React-17.0.2-blue)
+
+
 
 >>>>>>> a7e4b4121a5bd24692cebc4710a1d34690ea87df
